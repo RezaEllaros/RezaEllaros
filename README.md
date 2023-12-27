@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - 🌐 [nottheroot | CySec](comingsoon)
 
 ### ♦ About me:
-Frontend: Html , Css
-Backend: javascript, Jquery , Ajax , PHP
-Database : sql
-Other : python , node.js
+- Frontend: Html , Css
+- Backend: javascript, Jquery , Ajax , PHP
+- Database : sql
+- Other : python , node.js
 
