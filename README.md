@@ -1,9 +1,8 @@
 ### 👋Hi there, I'm Reza
 
 
-**RezaEllaros/RezaEllaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **backend** developer who is very interested in learning all languages
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 
 ### :notebook_with_decorative_cover: My Website:
 
-- 🌐 [nottheroot | CySec](comingsoon)
+- 🌐 [mywebSite | CySec](comingsoon)
 
 ### ♦ About me:
 - Frontend: Html , Css
