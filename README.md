@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/12/HVNbRg1S3m68u43k.png@300w_0e.webp" align="center" style="width: 100%" />
+<img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/12/HVNbRg1S3m68u43k.png@300w_0e.webp" align="center" style="width: 25%" />
 </div>  
   
 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning PHP  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I think I am a programmer
   
 
 <br/>  
@@ -75,7 +75,10 @@
 </a>
 <a href="https://instagram.com/reza.khanbabayi" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>   
+    <div align="center">
+<img src="https://komarev.com/ghpvc/?username=RezaEllaros&&style=flat-square" align="center" />
+</div> 
 </div>  
   
 
@@ -99,20 +102,17 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RezaEllaros&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rezaellaros" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+            <a href="https://www.coffeebede.com/rezaellaros"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="50" /></a>
+<a href="https://www.buymeacoffee.com/rezaellaros"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕ &slug=rezaellaros&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" height="50" /></a>
+
+
+
 <br />
 
 ----
