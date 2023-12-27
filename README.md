@@ -21,7 +21,7 @@ I am a **backend** developer who is very interested in learning all languages
 ### :satellite: Contact Me:
 
 - 📧 [Email](rzaellaros@gmail.com)
-- 💼 [Discord](https://discord.gg/PRT4TrgaZa))
+- 💼 [Discord](https://discord.gg/PRT4TrgaZa)
 - 🚩 [Instagram](https://instagram.com/reza.khanbabayi)
 
 ### :notebook_with_decorative_cover: My Website:
