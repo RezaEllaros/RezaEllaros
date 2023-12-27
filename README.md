@@ -21,12 +21,12 @@ I am a **backend** developer who is very interested in learning all languages
 ### :satellite: Contact Me:
 
 - 📧 [Email](rzaellaros@gmail.com)
-- 💼 [Discord]([https://www.linkedin.com/in/bishwassagar](https://discord.gg/PRT4TrgaZa))
+- 💼 [Discord](https://discord.gg/PRT4TrgaZa))
 - 🚩 [Instagram](https://instagram.com/reza.khanbabayi)
 
 ### :notebook_with_decorative_cover: My Website:
 
-- 🌐 [mywebSite | CySec](comingsoon)
+- 🌐 [MyWebSite](comingsoon)
 
 ### ♦ About me:
 - Frontend: Html , Css
