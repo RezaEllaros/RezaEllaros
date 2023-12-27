@@ -1,7 +1,9 @@
 ### 👋Hi there, I'm Reza
 
+<center> 
 
 I am a **backend** developer who is very interested in learning all languages
+</center> 
 
 
 - 🔭 I’m currently working on ...
